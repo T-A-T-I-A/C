@@ -16,7 +16,7 @@ per gallone percorse per tutti i pieni. Ecco un dialogo di input/output di esemp
     
     Enter the gallons used (-1 to end): -1
     
-    The overall average miles/gallon was 21.601423
+    The overall average miles/gallon was 21.601423*/
     
     //calcola consumo di carboidrante
 #include <stdio.h>
